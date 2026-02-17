@@ -1,4 +1,4 @@
-**Todo Application - Full Stack**
+#**Todo Application - Full Stack**
 A complete full-stack todo application built with React, Spring Boot, and PostgreSQL.
 
 ---Features---
