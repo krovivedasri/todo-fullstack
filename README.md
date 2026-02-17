@@ -2,6 +2,7 @@
 A complete full-stack todo application built with React, Spring Boot, and PostgreSQL.
 
 ---Features---
+
 Create new todos with title and description
 Mark todos as complete/incomplete
 Edit todo inline
