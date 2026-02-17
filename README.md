@@ -59,33 +59,6 @@ Start the backend server (port 8080)
 Start the frontend server (port 3000)
 Open your browser and navigate to http://localhost:3000
 Start managing your todos!
-----Project Structure----
-todo/
-├── backend/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/todo/
-│   │   │   │   ├── controller/
-│   │   │   │   ├── model/
-│   │   │   │   ├── repository/
-│   │   │   │   ├── service/
-│   │   │   │   └── exception/
-│   │   │   └── resources/
-│   │   │       └── application.properties
-│   └── pom.xml
-│
-└── frontend/
-    ├── public/
-    ├── src/
-    │   ├── components/
-    │   │   ├── AddTodo.jsx
-    │   │   ├── TodoList.jsx
-    │   │   └── TodoItem.jsx
-    │   ├── services/
-    │   │   └── todoService.js
-    │   └── App.jsx
-    └── package.json
-
 
 
 ---Technology Stack----
